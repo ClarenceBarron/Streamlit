@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "streamitweightsensor",
+  "private_key_id": "f25a718a532d11045c803223ef909298b7a32f3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDb6ErpQIAygqlT\nqB9Q+L2VVLmt3xIGJR445IJ5kJe2wh59eHcw5Qb5qK1oFNfq4XS+IU8hGg3eQmFE\nKzVHfUGqQab87TJZ2363ugVh6TL7JJpaWjiAZ/Jmp7zYSEJquoHQTY/rpppBBbtc\ncfzteJ4vLyHATmWTqJ97mPGrwbweCHoBYELi6cz1kxHRCdEIczNTtY+evq27aCXY\nMgrWGBqWy8mO4zK/buvjT1xo4i9CU1RkUHGNAQ2Uhf1VW/ROM+e4ObP1X1ghEF9w\nQAabtC+QkOkMLnAmemkB4y+Th4nEXQnqSF5A5klLFLWcB0II12MKucyRNFUGAog8\nqyzw1Hq7AgMBAAECggEAGi+jG/tuSJV+jFOsxvuXt7yLD8VMZCbvXl73mno5Vq3u\n64n4x32+QuRvIcG5pGKMgEd/ILX1iM3mvzNV+NlVhGyk8eFc6Y5VnJMuKOaYB4fo\nSXIM4F2AY/D9b9PK9OKYqrFRvgHsxGlmUi/QqoZ+b6fxIPE070xZEWK5BHbha8Hm\nAcfOpdnZWDVOuEPa+Z6ihurejwObui7elp/HngwpGVjJvE8AcihRMznPIqaN1tb8\nM3iIuyOAJyKyA00WZZqlJon/ufjpZTSZEmgOtX1fREsw++xZmMmibrGm1ls7BGhH\nUzgRQuk4J4FZEedVlZSci3+Yne5Cid2hba4GHfZlAQKBgQD+AX1yXKwsepKdt66U\nBSeDsp9ocjYJqPtC2owJ+YiYufeFbQjtE+cZlbcNzUQkJYFH242jwKi+vS/0JPtW\n9aWJ2B3fJJuHSlGVLjsnWEkEz+T3FF96o2sCWzsBYViUeD2z6IoXlx2jW3C6HHVl\nT0/gTREJIjlA6iU54qDk883XGwKBgQDdokU2KVMKkNPgKx38aCWhA3OpJWCHzVI5\niybIYRhC1IAwBTk/M9Zwsb6LWGFGYDzjpVd2rq7NPub9k5rzEnQIjAcoAa/kUgWS\nQwgdq7tQfOJbfmQZsJ3tAQ+onn+9zi3o2kR+M1jArh136hpXpJga8kWPr1AXH2bX\nn/7fR4oE4QKBgQCp8sNFZj4IkIZSolhbT0uN8VB46JnBQt/CbkluTxgW365+BmMH\nhN6GHsbYpDNoX/Os6XhOTRRacmiIWMoV98unfAMYjvzEu3P0dXc8rvREFPkkW+w6\nOObbL8E9/izvQbg/DGKAwCojZ4X38ByYCUXvVIEGdHCMP11i6oAuT/W0awKBgQCi\n5SlJbYYDNf8Du60GXuWJOihAIaCZL2dHs+aFUBesxtKQeMZilY7+tST+9a5JM2KN\nTnDCYhFH+Pt9VIeGMAHoZkK8PMEyZraBkZLde+LofWFBLdwUpaLtFuKTZCsvLeLA\nSewddU++DjrKb918nRTOeVJ3ELskw4eq44VIRiRDAQKBgQDcrj7CHHNs4m151Iml\n1D7PPHQT584+wB7Pbrgj0Ni4A7dH/vp+bA3hvKVezJtwUhgLk2n9y7GpEPsfCQ2O\nI4tXKpXGLj97unJvX3j2H51NiW/Ad+xw2J6W3LDMvnxSLQzHIxkToMFNqc13MHPg\n+i0fxSG7S3gWsJoTtJOoD/NMyg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n3tl7@streamitweightsensor.iam.gserviceaccount.com",
+  "client_id": "111423127394893809541",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n3tl7%40streamitweightsensor.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
